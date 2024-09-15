@@ -1,1 +1,2 @@
-git is awesome!
+Hello Hexlet.
+Git is awesome!
